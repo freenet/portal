@@ -1,0 +1,16 @@
+[package]
+name = "freenet-portal"
+version = "0.1.0"
+authors = ["Ian Clarke <github@ian.33mail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+dioxus = { git = "https://github.com/DioxusLabs/dioxus", features = ["web"] }
+
+# Debug
+log = "0.4.19"
+dioxus-logger = "0.4.1"
+console_error_panic_hook = "0.1.7"

@@ -1,0 +1,12 @@
+/home/ian/code/freenet/freenet-portal/web/target/debug/deps/libkrates-a88208691bfe9092.rmeta: /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/lib.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder/features.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder/index.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/errors.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/pkgspec.rs
+
+/home/ian/code/freenet/freenet-portal/web/target/debug/deps/libkrates-a88208691bfe9092.rlib: /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/lib.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder/features.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder/index.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/errors.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/pkgspec.rs
+
+/home/ian/code/freenet/freenet-portal/web/target/debug/deps/krates-a88208691bfe9092.d: /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/lib.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder/features.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder/index.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/errors.rs /home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/pkgspec.rs
+
+/home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/lib.rs:
+/home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder.rs:
+/home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder/features.rs:
+/home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/builder/index.rs:
+/home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/errors.rs:
+/home/ian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/krates-0.16.7/src/pkgspec.rs:
