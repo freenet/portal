@@ -14,3 +14,4 @@ dioxus = { git = "https://github.com/DioxusLabs/dioxus", features = ["web"] }
 log = "0.4.19"
 dioxus-logger = "0.4.1"
 console_error_panic_hook = "0.1.7"
+manganis = "0.2.2"
